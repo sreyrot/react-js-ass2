@@ -1,0 +1,28 @@
+
+li.nav-item {
+    display: inline;
+    margin-left: 40px;
+    padding: 10px;
+}
+li.nav-item .nav-link:hover{
+    cursor: pointer;
+}
+.navbar-brand img{
+    width: 20%;
+}
+.page-footer{
+    position:relative;
+    left:0;
+    bottom:0;
+    right:0;
+    padding-bottom:20px;
+}
+#map{
+    width: 1060px;
+}
+.menu{
+    background-color: #118790;
+}
+
+
+
